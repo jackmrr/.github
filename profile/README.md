@@ -1,4 +1,4 @@
-iMazing 3.6.1 for Macos Version Kmall 2026
+## iMazing 3.6.1 for Macos Version Kmall 2026
 
 
 The **iMazing Blog** is the official publication channel for DigiDNA, the creators of **iMazing**—the popular macOS and Windows management utility for iPhone, iPad, and iPod devices.
